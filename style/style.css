@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+
+header{
+    background:#93B5C9;
+    height: 90px;
+}
+
+main{
+    background:#AB2849;
+    height: 230px
+}
+
+div{
+    background:#AB2849;
+    height: 85px;
+    margin: 10px 0 0 200px;
+}
+footer{
+    background: #AB2849;   
+    height: 90px;
+    margin: 10px 20px 0 20px;
+}
